@@ -1,0 +1,23 @@
+Processing File: given-tests/test2.txt
+Line: 100.001
+Line: op -
+Line: 1.23
+Line: op *
+Line: 2.4
+Line: op /
+Line: 4.75
+Line: op %
+Line: 3
+Line: 3.2
+Line: op $
+Line: 3
+Processing File: fake
+Error: Cannot open the file fake for reading!
+Processing File: given-tests/test3.txt
+Line: 975.2
+Line: 33
+Line: op ?
+Line: 10
+Line: op ++
+Line: op *
+Line: 2

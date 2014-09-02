@@ -1,0 +1,24 @@
+-10
+op +
+1234.56789
+   op -
+4.4
+op   *
+3
+op   %   
+10
+op ++
+op    -%  
+  op  -  
+op ?
+10
+print
+op -+
+op *
+2
+1.2.3
+total
+op   /
+op //
+op /*
+clear

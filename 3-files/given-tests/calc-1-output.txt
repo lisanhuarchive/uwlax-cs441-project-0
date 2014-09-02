@@ -1,0 +1,10 @@
+Processing File: given-tests/verify-1-input.txt
+     0.000 +    123.000 =    123.000
+   123.000 +    -34.789 =     88.211
+    88.211 +     10.200 =     98.411
+Error: "--+4.2" is not a valid number...
+Error: "4.3.1" is not a valid number...
+    98.411 +      3.400 =    101.811
+   101.811 +      2.000 =    103.811
+
+Final Total: 103.81

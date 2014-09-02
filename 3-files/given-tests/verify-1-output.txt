@@ -1,0 +1,10 @@
+Processing File: given-tests/verify-1-input.txt
+Running Total: 123.00
+Running Total:  88.21
+Running Total:  98.41
+Error: "--+4.2" is not a valid number...
+Error: "4.3.1" is not a valid number...
+Running Total: 101.81
+Running Total: 103.81
+
+Final Total: 103.81

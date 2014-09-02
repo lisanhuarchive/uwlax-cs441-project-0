@@ -1,0 +1,23 @@
+a
+1
+ab
+12
+abc
+123
+abcd
+1234
+abcde
+12345
+abcdef
+123456
+abcdefg
+123456 7 
+abcdefgh
+123456 7 88
+abcdefghi
+123456 7 88 99
+abcdefghij
+123456 7 88 99 1010
+
+zzz zzzz zzzz
+9 8 7 6 5 4 3 2 1 111          1111111

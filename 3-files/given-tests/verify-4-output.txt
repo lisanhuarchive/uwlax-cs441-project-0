@@ -1,0 +1,17 @@
+Processing File: given-tests/verify-4-input.txt
+Running Total: 100.00
+Operator changed from (Addition) to (Subtraction)
+Running Total:  98.77
+Operator changed from (Subtraction) to (Multiplication)
+Running Total: 237.05
+Operator changed from (Multiplication) to (Division)
+Running Total:  49.91
+Operator changed from (Division) to (Modulus)
+Running Total:   1.91
+Running Total:   1.91
+Operator changed from (Modulus) to (Addition)
+Running Total:   4.91
+Error: "op $" is not a valid number...
+Running Total:   7.91
+
+Final Total:   7.91
