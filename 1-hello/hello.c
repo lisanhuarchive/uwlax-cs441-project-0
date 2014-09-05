@@ -1,6 +1,13 @@
-#include "stdio.h"
-int main(int argc, char const *argv[])
+/*
+ * Sanhu Li
+ * Sep. 5, 2014
+ *
+ * Hello World program
+ */
+#include <stdio.h>
+
+int main(int argc, const char * argv[])
 {
-	printf("Hello world!\n");
-	return 0;
+    printf("Hello, World!\n");
+    return 0;
 }
