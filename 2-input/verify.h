@@ -1,8 +1,8 @@
 /*
- * [YOUR NAME]
- * [DATE LAST MODIFIED]
+ * Sanhu Li
+ * Sep. 14, 2014
  *
- * [DESCRIPTION OF THE PROGRAM]
+ * Project 0.2 question 3
  */
 #include <stdio.h>
 #include <string.h> // For strlen
