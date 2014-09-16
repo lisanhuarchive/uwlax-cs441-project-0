@@ -2,3 +2,7 @@
 2-input/cmdline
 2-input/stdinput
 2-input/verify
+3-files/calc
+3-files/echo
+3-files/support.o
+3-files/verify
