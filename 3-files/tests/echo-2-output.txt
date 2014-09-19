@@ -1,0 +1,8 @@
+Processing File: tests/test1.txt
+Line: 1234
+Line: -34.78901a
+Line: 10.2   2
+Line: --+4.2
+Line: 4.3.1 op +
+Line: 3.4 55
+Line: 2 7

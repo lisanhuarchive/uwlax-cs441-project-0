@@ -1,8 +1,8 @@
 /*
- * [YOUR NAME]
- * [DATE LAST MODIFIED]
+ * Sanhu Li
+ * Sep. 19, 2014
  *
- * [DESCRIPTION OF THE PROGRAM]
+ * Project 0.3
  */
 #ifndef __SUPPORT_H__
 #define __SUPPORT_H__
@@ -70,6 +70,21 @@ typedef enum op_type op_type_t;
  *   OP_* matching the associated operation from the enumerated type.
  */
 op_type_t is_valid_op(char *str);
+
+/*
+ * Trim function to trim the strings
+ *
+ * Parameters:
+ *   source : String to trim
+ *   result : Destination to put the string
+ *
+ * Note:
+ *   make sure the result has enough space to store the trimmed string.
+ *
+ * Returns:
+ *   result pointer
+ */
+char * trim(const char * source, char *result);
 
 
 #endif /* __SUPPORT_H__ */

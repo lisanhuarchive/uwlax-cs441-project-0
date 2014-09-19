@@ -1,8 +1,8 @@
 /*
- * [YOUR NAME]
- * [DATE LAST MODIFIED]
+ * Sanhu Li
+ * Sep. 19, 2014
  *
- * [DESCRIPTION OF THE PROGRAM]
+ * Project 0.3
  */
 #include "support.h"
 

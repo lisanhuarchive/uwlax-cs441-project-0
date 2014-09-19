@@ -1,0 +1,73 @@
+# CS441/541
+## Project 0 - Part 3
+
+This directory contains your calculator program.
+
+Author: Sanhu Li
+Date: Sep. 19, 2014
+
+Brief summary:
+	calc This is a simple command-line calculator program.
+	echo This program is used to show contents of a file line by line.
+	verify This is a simpler version of calc program.
+
+How to build:
+	In command-line, go to the folder where the source files are.
+	using command
+	$ make
+	That's it.
+
+How to use:
+	For calc
+	This program has two modes, console mode and file mode.
+	In console mode, start with command like this
+	$ ./calc
+	Then type in the numbers line by line
+	one numbers for one line
+	when you are done, please press ctrl-d to terminate the program and you will get the final value.
+	when you need to change the operator, use the operator commands as follows
+	op +
+	op -
+	op *
+	op /
+	op %
+	These are the only five operators supported.
+	The result for last calculation is stored and will be used for the future calculation.
+
+	For file mode, just type the numbers line by line in the input file
+	when you need to change the operator, type the operator command in that line
+	start use file mode like this
+	$ ./calc <input file path>
+	Then you can get the result.
+
+	For multiple files, just add input file names as arguments. For example,
+	$ ./calc input1.txt input2.txt <...>
+
+	For echo
+	This program only has one mode: file mode.
+	$ ./echo <file path>
+
+	For verify
+	It's rather similar to calc
+
+How to test:
+	Test for all
+	$ make mycheck
+
+	Test for echo
+	$ make mycheck-echo
+
+	Test for verify
+	$ make mycheck-verify
+
+	Test for calc
+	$ make mycheck-calc
+
+Examples:
+	???????
+
+Know bugs and problem areas:
+	If you find a bug, please report to li.sanh@uwlax.edu
+
+	For calc and verify
+	The calculator program can only calculate the numbers within the double type boundaries. That means 1.79769e+308 ~ 2.22507e-308. Accuracy is 2^-15.

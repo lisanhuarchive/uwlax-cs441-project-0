@@ -1,6 +1,6 @@
 #
-# [YOUR NAME]
-# [DATE LAST MODIFIED]
+# Sanhu Li
+# Sep. 19, 2014
 #
 CC=gcc
 CFLAGS=-Wall -g -O0
@@ -53,3 +53,4 @@ clean:
 # Tests
 #
 include given-tests/Makefile
+include tests/Makefile
